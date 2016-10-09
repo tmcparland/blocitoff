@@ -12,6 +12,7 @@ gem 'rails', '~> 5.0.0', '>= 5.0.0.1'
  # #2
  group :development do
    gem 'sqlite3'
+   gem 'listen'
  end
  
  # Use SCSS for stylesheets
