@@ -119,9 +119,7 @@
         null,
         1,
         1,
-        null,
-        null,
-        null,
+        1,
         null,
         null
       ],
@@ -746,8 +744,6 @@
         null,
         null,
         null,
-        1,
-        1,
         null
       ],
       "/home/ubuntu/workspace/blocitoff/blocitoff/spec/helpers/users_helper_spec.rb": [
@@ -762,9 +758,6 @@
         null,
         null,
         null,
-        null,
-        1,
-        1,
         null
       ],
       "/home/ubuntu/workspace/blocitoff/blocitoff/spec/models/item_spec.rb": [
@@ -785,32 +778,22 @@
       "/home/ubuntu/workspace/blocitoff/blocitoff/spec/models/user_spec.rb": [
         1,
         null,
-        1,
-        1,
         null
       ],
       "/home/ubuntu/workspace/blocitoff/blocitoff/spec/views/items/create.html.erb_spec.rb": [
         1,
-        null,
-        1,
-        1,
         null
       ],
       "/home/ubuntu/workspace/blocitoff/blocitoff/spec/views/items/destroy.html.erb_spec.rb": [
-        1,
-        null,
-        1,
         1,
         null
       ],
       "/home/ubuntu/workspace/blocitoff/blocitoff/spec/views/users/show.html.erb_spec.rb": [
         1,
         null,
-        1,
-        1,
         null
       ]
     },
-    "timestamp": 1478741122
+    "timestamp": 1479346558
   }
 }
